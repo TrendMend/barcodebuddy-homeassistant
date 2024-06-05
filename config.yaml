@@ -18,7 +18,7 @@ map:
 - config:rw
 - ssl
 devices:
-- "/dev/input/by-id/usb-©_Datalogic_2002_Datalogic_Bar_Code_Scanner_S_N_F14B10072-event-kbd"
+- /dev/input/by-id/usb-©_Datalogic_2002_Datalogic_Bar_Code_Scanner_S_N_F14B10072-event-kbd
 environment: 
   ATTACH_BARCODESCANNER: true
 ports:
