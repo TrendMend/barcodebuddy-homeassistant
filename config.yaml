@@ -20,7 +20,7 @@ map:
 devices:
 - /dev/input/by-id/usb-©_Datalogic_2002_Datalogic_Bar_Code_Scanner_S_N_F14B10072-event-kbd
 environment: 
-  ATTACH_BARCODESCANNER: true
+  ATTACH_BARCODESCANNER: "true"
 ports:
   80/tcp: 8621
 ports_description:
